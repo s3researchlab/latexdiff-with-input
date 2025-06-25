@@ -20,7 +20,7 @@ Add all files into the respective folder (old or current) then run:
 sh run.bh
 ```
 
-If everything went well then the following is a possible expected output
+If everything went well then the following is a possible expected output:
 
 ```
 Opening /Users/user/Workspace/latexdiff-with-input/current/main.tex
@@ -28,3 +28,5 @@ Done
 Opening /Users/user/Workspace/latexdiff-with-input/old/main.tex
 Done
 ```
+
+This project will create a file called `diff.tex` into "current" folder. Now you can compile it.
