@@ -20,3 +20,11 @@ Add all files into the respective folder (old or current) then run:
 sh run.bh
 ```
 
+If everything went well then the following is a possible expected output
+
+```
+Opening /Users/user/Workspace/latexdiff-with-input/current/main.tex
+Done
+Opening /Users/user/Workspace/latexdiff-with-input/old/main.tex
+Done
+```
