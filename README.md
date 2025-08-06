@@ -12,6 +12,12 @@ Tool to run latexdiff on LaTeX files that use \input{} or \include{}, resolving 
 
 Make sure you have installed Latex and Node.js before running this project
 
+Type the following to install `latexdiff` on macOS:
+
+```sh
+brew install latexdiff
+```
+
 ## How to Run
 
 Add all files into the respective folder (old or current) then run:
